@@ -28,6 +28,7 @@ figcaption {
 nav {
   font-size: 1.125rem;
   font-weight: bold;
+  font-family: "Patua One", sans-serif;
 }
 
 nav ol {
@@ -39,7 +40,7 @@ nav a {
   text-decoration: none;
 }
 
-nav a :hover {
+nav a:hover {
   color: #b42885;
   text-decoration: underline;
 }
